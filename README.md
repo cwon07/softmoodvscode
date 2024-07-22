@@ -2,6 +2,8 @@
 
 ![screenshot](screenshot.png)
 
+Soft Mood VS Code theme is designed with tranquil pastel colors that are easy on the eyes and bring a sense of warmth to your coding environment. This theme is made to enhance your workspace by blending soothing hues with a gentle, inviting ambiance. Perfect for long coding sessions, it aims to make your development experience more comfortable and visually pleasing.
+
 ## How to Install
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
