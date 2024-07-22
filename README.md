@@ -1,5 +1,7 @@
 # Soft Mood VS Code Theme (Dark)
 
+![screenshot](screenshot.png)
+
 ## How to Install
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
@@ -12,6 +14,8 @@
 
 ## Color Theme 
 Loosely adapted from [this Coolors palette](https://coolors.co/palette/edafb8-f7e1d7-dedbd2-b0c4b1-4a5759)
+
+![color palette](palette.png)
 
 
 
