@@ -12,8 +12,8 @@
 7. From the menu bar, click: Code > Preferences > Color Theme > Soft Mood
 
 ## Color Theme 
-Loosely adapted from [this Coolors palette](https://coolors.co/palette/edafb8-f7e1d7-dedbd2-b0c4b1-4a5759):
-![Color Palette](https://imgur.com/a/zFPIWnJ)
+Loosely adapted from [this Coolors palette](https://coolors.co/palette/edafb8-f7e1d7-dedbd2-b0c4b1-4a5759):<br>
+![Color Palette](images/palette.png)
 
 
 **Enjoy!**
