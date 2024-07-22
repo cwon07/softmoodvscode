@@ -2,7 +2,7 @@
   "name": "soft-mood-theme-dark",
   "displayName": "Soft Mood Theme Dark",
   "description": "A minimal, soft mood theme for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "cdub",
 	"repository": {
 	  "type": "git",
