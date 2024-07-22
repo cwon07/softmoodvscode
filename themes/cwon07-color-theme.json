@@ -1,20 +1,5 @@
 {
 	"name": "Soft Mood Theme",
-	"displayName": "Soft Mood Theme by cwon07",
-	"description": "A simplistic, pastel theme for VS Code.",
-	"version": "1.0.0",
-	"publisher": "cdub",
-	"repository": {
-	  "type": "git",
-	  "url": "https://github.com/cwon07/softmoodvscode"
-	},
-	"keywords": [
-	  "theme",
-	  "dark theme",
-	  "pastel",
-	  "minimalistic",
-	  "aesthetic"
-	],
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
