@@ -1,16 +1,19 @@
-# soft-mood-theme-dark README
+# Soft Mood VS Code Theme (Dark)
 
-## Working with Markdown
+![Soft Mood Vs Code Theme]
+## How to Install
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+1. Install [Visual Studio Code](https://code.visualstudio.com/download)
+2. Launch Visual Studio Code
+3. Choose Extensions from menu
+4. Search for Soft Mood VS Code Theme
+5. Click Install to install the theme
+6. Click Reload to reload Visual Studio Code
+7. From the menu bar, click: Code > Preferences > Color Theme > Soft Mood
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Color Theme 
+Loosely adapted from [this Coolors palette](https://coolors.co/palette/edafb8-f7e1d7-dedbd2-b0c4b1-4a5759):
+![Color Palette](https://imgur.com/a/zFPIWnJ)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
